@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cheaper</string>
+    <string name="newShopping">Új bevásárlás</string>
+    <string name="name">Üzlet neve</string>
+    <string name="price">A termékek össz ára</string>
+    <string name="priceof_item">A termék ára</string>
+    <string name="nameof_item">A termék neve</string>
+    <string name="items">Termékek</string>
+</resources>
